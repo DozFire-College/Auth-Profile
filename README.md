@@ -8,7 +8,7 @@ npm install pg
 npm install fastify  
  npm install @fastify/cors  
 
-/ or /
+
 
 # Run server:
 npm init -y  
